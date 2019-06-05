@@ -34,7 +34,7 @@ How to install packages in Jupyter notebook. There are complexities we need to b
 [https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/]
 
 5. After you install jupyter notebook you can follow this notebook to install and check all those packages.
-https://github.com/bimalmaharjan/settingupmacforml/blob/master/Helloml.ipynb
+[https://github.com/bimalmaharjan/settingupmacforml/blob/master/Helloml.ipynb]
 
 Hope someone would find this curation useful
 
