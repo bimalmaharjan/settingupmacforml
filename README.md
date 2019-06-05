@@ -9,12 +9,11 @@ I am not a developer. I am a product manager. I don’t code in a daily basis. B
 
 2. Install miniconda 
  I chose miniconda because I don’t need all the packages right away. I can install those packages in the virtual environments I create on the need basis. I like to isolate dependent packages for different types.
-		
 		Anaconda vs miniconda vs virtual env 
 			[http://deeplearning.lipingyang.org/2018/12/23/anaconda-vs-miniconda-vs-virtualenv/]
 		How to install miniconda. 
 		[http://deeplearning.lipingyang.org/2018/12/24/install-miniconda-on-mac/]
-3.Managing environments
+3. Managing environments
 	    Why you need environments 
 		https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/
 	    Conda documentation [https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#removing-an-environment]
