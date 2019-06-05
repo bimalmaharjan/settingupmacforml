@@ -14,7 +14,8 @@ I chose miniconda because I don’t need all the packages right away. I can inst
 		
 Anaconda vs miniconda vs virtual env 
 [http://deeplearning.lipingyang.org/2018/12/23/anaconda-vs-miniconda-vs-virtualenv/]
-How to install miniconda. 
+
+How to install miniconda 
 [http://deeplearning.lipingyang.org/2018/12/24/install-miniconda-on-mac/]
 
 3. Managing environments
