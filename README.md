@@ -1,5 +1,8 @@
 # settingupmacforml
 
+From to zero to running the first machine learning and deep learing projects within hours using scikit-learn, keras, and tensorflow
+
+
 I bought a new Mac. I need to install everything that is necessary to build the machine learning project in my local machine. I could have copied everything from my old Mac using Time Machine. But I wanted to start from the scratch so that I can document the steps and I can share with all of those who daily job is not coding but who wants to get hands dirty every now and then.
 
 I am not a developer. I am a product manager. I don’t code in a daily basis. But it’s fun to write some code when necessary. At least, I am able to clone the project locally in my machine. 
